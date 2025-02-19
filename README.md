@@ -54,6 +54,8 @@ The dataset should contain two key columns:
 
 The results include accuracy scores and confusion matrices to evaluate model performance. The Logistic Regression model typically performs well for text classification tasks. However, it did not perform well. Nonetheless, l have deciced to post it as l have learnt so much from this project.
 
+This project was unsuccessful as there is a massive difference between accuracy scores of the training and testing data
+
 ## Contribution
 
 Free free to correct me were l went wrong.
